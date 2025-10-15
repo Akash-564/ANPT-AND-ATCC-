@@ -1,0 +1,10 @@
+output.mp4
+sample_video.mp4
+temp_video.mp4
+yolo8n.py
+.venv
+myenv
+__pycache__
+license_plate_detector.pt
+sample_video2.mp4
+sample_video3.mp4
